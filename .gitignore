@@ -1,0 +1,48 @@
+# ✅ 민감정보 (환경변수 등)
+.env
+**/.env
+
+# ✅ Airflow 관련 로그 및 캐시
+**/logs/
+**/__pycache__/
+
+# ✅ IDE 설정파일 (VSCode, PyCharm 등)
+**/.idea/
+**/.vscode/
+**/.DS_Store
+
+# ✅ Jupyter 캐시
+.ipynb_checkpoints/
+
+# ✅ Python 캐시
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# ✅ 가상환경 폴더
+venv/
+env/
+.venv/
+
+# ✅ 데이터 및 결과 폴더 (로컬 테스트용)
+data/
+output/
+processed/
+raw/
+
+# ✅ Docker, S3, 인증 키 등 민감파일
+docker-volume/
+**/docker-volume/
+.github/deokjani-ec2-key.pem
+
+# ✅ 시스템 파일
+Thumbs.db
+ehthumbs.db
+
+# ✅ 빌드/다운로드용 바이너리 및 라이브러리 무시
+mysql-connector-j-*.jar
+hadoop-aws-*.jar
+apache-hive-*-bin.tar.gz
+hadoop-*.tar.gz
+aws-java-sdk-bundle-*.jar

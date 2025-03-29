@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 24 04:39:03 KST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0195-c484-0c7f-000013cc7ad0 
+on database directory C:\ITWILL\SportsDrinkForecast\docker-elk\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@45ff54e6 
+Loaded from file:/C:/Users/topcd/anaconda3/envs/tensorflow/Lib/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11+28
+user.dir=C:\ITWILL\SportsDrinkForecast\docker-elk
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

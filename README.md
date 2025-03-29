@@ -1,5 +1,5 @@
 # SportsDrink Forecast: 스포츠 음료 점유율 예측 시스템  
-[sportsdrink-forecast.pdf](https://github.com/user-attachments/files/19523217/sportsdrink-forecast.pdf)
+# [sportsdrink-forecast.pdf](https://github.com/user-attachments/files/19523217/sportsdrink-forecast.pdf)
 
 
 ## 프로젝트 개요
